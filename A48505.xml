@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Queen, at Whitehall, Jan. 24, 1690/1 by J. Lambe ...</title>
+            <author>Lambe, John, 1648 or 9-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48505</idno>
+            <idno type="STC">Wing L223</idno>
+            <idno type="STC">ESTC R3371</idno>
+            <idno type="EEBO-CITATION">12891982</idno>
+            <idno type="OCLC">ocm 12891982</idno>
+            <idno type="VID">95116</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48505)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95116)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 718:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Queen, at Whitehall, Jan. 24, 1690/1 by J. Lambe ...</title>
+                  <author>Lambe, John, 1648 or 9-1708.</author>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  N.T. --  Titus II, 10 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95116:1"/>
+            <p>A SERMON PREACHED Before the QUEEN, AT WHITEHALL, <hi>Jan.</hi> 24. 1690/1.</p>
+            <p>By <hi>J. LAMBE,</hi> Chaplain in Ordinary to Their MAJESTIES.</p>
+            <p>Publiſhed by Her Majeſty's Special Command.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby,</hi> at the <hi>Biſhop</hi>'s <hi>Head</hi> in St. <hi>Paul</hi>'s Church-Yard, 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:95116:2"/>
+            <pb n="1" facs="tcp:95116:2"/>
+            <head>A SERMON Preached before the QUEEN.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>TIT. II. X.</hi>
+                  </bibl>
+                  <p>— That they may adorn the Doctrine of God our Saviour in all things.</p>
+               </q>
+            </epigraph>
+            <p>THE credit of any Inſtitution of Re<g ref="char:EOLhyphen"/>ligion, depends upon the happy Effects that it has upon the temper and lives of its Diſciples. 'Tis true, to judge of a Religion by the Effects, may be contrary to the ſtricter Laws of rea<g ref="char:EOLhyphen"/>ſoning, which oblige us, <hi>à priori,</hi> to conſider the Authority of the Author, and to judge of the Religion it ſelf by granted Principles of
+<pb n="2" facs="tcp:95116:3"/>Truth and Goodneſs. But becauſe theſe con<g ref="char:EOLhyphen"/>ſiderations are too deep and cloſe for common underſtanding; therefore the eyes of the gene<g ref="char:EOLhyphen"/>rality of Men will be fixed upon the lives and behaviour of its Proſelytes, as the ſureſt way of informing themſelves in the Nature and Au<g ref="char:EOLhyphen"/>thority of the Religion it ſelf. And by how much Chriſtianity is a more Holy Inſtitution than any other, by ſo much its Honour and Reputation in the World, does more depend upon the ſuitable Converſation of Chriſtians; becauſe perverſe and wicked Men will be ſo much the more unwilling to believe it, and will therefore more capriciouſly inſpect the lives of Chriſtians, that they may furniſh ob<g ref="char:EOLhyphen"/>jections againſt it, and reaſons of ſatisfaction and comfort to themſelves, in their Vice and Infidelity.</p>
+            <p>St. <hi>Paul</hi> therefore, though he juſtifies the Chriſtian Faith, by Divine Authority, by the Power of Miracles, and the Gifts of the Holy Ghoſt; yet He is eſpecially ſolicitous, that it may be aſſerted and commended to the World by the ſuitable lives of the Diſciples; that both the Jews and Gentiles, when they obſerve it in the practice of it, may be perſwaded, by this more eaſy and ſenſible conviction, that our
+<pb n="3" facs="tcp:95116:3"/>Saviour was no Impoſtor, nor his Religion a Deſign; that the Proſelytes of it do heartily believe it, becauſe they have conform'd their Souls and Lives unto it, and exemplify thoſe Excellent Vertues in their actions, which their Law requires, and which all men, by the common inſtincts of humane nature, admire and value.</p>
+            <p>And to this very purpoſe he wrote this Epi<g ref="char:EOLhyphen"/>ſtle to <hi>Titus,</hi> full of appoſite Inſtructions con<g ref="char:EOLhyphen"/>cerning the Government, as well of Himſelf, as of the Clergy and Laity under His charge, with particular reſpect to the Reputation and Honour of the Chriſtian Religion, as an end which he chiefly and more expreſly here de<g ref="char:EOLhyphen"/>ſigns. For, Chapter the firſt, he obliges <hi>Titus</hi> to a Conſcientious diſcharge of the Office of a Biſhop, <hi>that the Gainſayers may be convinced,</hi> v. 9. The Clergy to Piety, Zeal, and Diligence, <hi>that they of the contrary part may be aſhamed, having no evil thing to ſay of you,</hi> Ch. 2.8. The Aged, the Widows, the Youth, and all other ſorts of Men, That they exerciſe ſuch Chriſtian Gra<g ref="char:EOLhyphen"/>ces as are proper to their reſpective ſtations, <hi>that they may adorn the Doctrine of God our Saviour in all things.</hi>
+            </p>
+            <p>For the clearer illuſtration of this important
+<pb n="4" facs="tcp:95116:4"/>duty, I ſhall briefly conſider theſe Three things.</p>
+            <list>
+               <item>I. Firſt, <hi>The meaning of the Words.</hi>
+               </item>
+               <item>II. Secondly, <hi>The nature of the Duty.</hi>
+               </item>
+               <item>III. Thirdly, <hi>The reaſons which oblige us, and the encouragements which may perſwade us to the pra<g ref="char:EOLhyphen"/>ctice of it.</hi>
+               </item>
+               <item>IV. Fourthly and laſtly, <hi>I ſhall draw ſome In<g ref="char:EOLhyphen"/>ferences from the whole.</hi>
+               </item>
+            </list>
+            <p n="1">I. I begin with the firſt of theſe, <hi>the Expli<g ref="char:EOLhyphen"/>cation of the terms,</hi> ad ſhall conſider,</p>
+            <list>
+               <item>1. Firſt, What is meant by <hi>the Doctrine of God our Saviour.</hi>
+               </item>
+               <item>2. Secondly, What by <hi>Adorning the Doctrine of God our Saviour.</hi>
+               </item>
+               <item>3. Thirdly, Who are underſtood by <hi>they;</hi> or who are the ſubjects of the duty: <hi>That they may adorn the Doctrine of God our Saviour in all things.</hi> And,
+<list>
+                     <item>1. Firſt, By <hi>the Doctrine of God our Saviour,</hi> the Apoſtle underſtands the <hi>Chriſtian Religion,</hi> or that inſtitution of Faith and Manners, which the Ever Bleſſed Jeſus taught and publiſh'd, when he was here on Earth.<note place="margin">Ph. 1.27.</note> It is one, a<g ref="char:EOLhyphen"/>mongſt many other general words,<note place="margin">Mar. 8.35.</note> as the <hi>Go<g ref="char:EOLhyphen"/>ſpel,</hi> the <hi>Word of God,</hi>
+                        <note place="margin">Jam. 1.21.</note> the <hi>Faith,</hi> the <hi>New Teſta<g ref="char:EOLhyphen"/>ment,</hi> by which the Chriſtian Religion is ex<g ref="char:EOLhyphen"/>preſs'd in Scripture.<note place="margin">Luk. 22.26.</note>
+                     </item>
+                     <pb n="5" facs="tcp:95116:4"/>
+                     <item>2. And ſecondly, To <hi>adorn</hi> the Doctrine of God our Saviour, is to advance the Credit and Reputation of the Chriſtian Religion in the World. It is ſo to govern and demean our ſelves, that we may reconcile its Enemies to a good opinion of it; that we may procure, and even force regard and veneration towards it. The <hi>Gnoſticks</hi> had diſgrac'd the Chriſtian Faith, by their ſeditious, ſenſual, and licen<g ref="char:EOLhyphen"/>tious Doctrines; ſome againſt the common in<g ref="char:EOLhyphen"/>tereſt of Society; as this, That Chriſtians were exempt from Obedience to their Governours; That Chriſtian Servants were, <hi>ipſo facto,</hi> manu<g ref="char:EOLhyphen"/>miſs'd: Some againſt common honeſty; as, That the Diſciples might diſſemble their Religion; or, if hardly preſs'd, Might apoſtatize in caſe of Perſecution; that by a clearer light, it was revealed to them, That ſenſual luſts might ſafely be indulg'd. And hence our Religion was blaſphemed, as a Doctrine that overturn<g ref="char:EOLhyphen"/>ed the World, moved Sedition, and corrupted the People. And this was the occaſion of this Epiſtle, in which the Apoſtle recites and re<g ref="char:EOLhyphen"/>commends the principal Laws of Chriſtian Life, for this very end, in a more eſpecial manner, that the progreſs of the <hi>Gnoſtick</hi> He<g ref="char:EOLhyphen"/>reſie might be prevented, the mouths of Ad<g ref="char:EOLhyphen"/>verſaries
+<pb n="6" facs="tcp:95116:5"/>ſtopp'd, the honour of our Religion retrieved, and the Doctrine of God our Savi<g ref="char:EOLhyphen"/>our in all things magnified, and adorn'd.</item>
+                     <item>3. Thirdly and laſtly, By the <hi>They</hi> in the Text, the Perſons upon whom this duty is in<g ref="char:EOLhyphen"/>cumbent, we may fairly underſtand the whole Body of Chriſtians. All that name the Name of Chriſt, let them <hi>adorn the Doctrine of God our Saviour in all things;</hi> for he preſently urges a motive that is general, and which equally con<g ref="char:EOLhyphen"/>cerns all ſtates and conditions of men what<g ref="char:EOLhyphen"/>ever, <hi>v.</hi> 11. <hi>For the Grace of God which bringeth Salvation, hath appeared to all men, teaching us to deny Ungodlineſs, and Worldly Luſts, and to live ſo<g ref="char:EOLhyphen"/>berly,</hi> &amp;c. And thus much for the literal con<g ref="char:EOLhyphen"/>ſtruction of the words.</item>
+                  </list>
+               </item>
+            </list>
+            <p n="2">II. I proceed, as I propoſed in the ſecond place, to conſider the nature, the acts, and exerciſes of the Duty it ſelf, in what it con<g ref="char:EOLhyphen"/>ſiſts, and when a Man may be ſaid to <hi>Adorn the Doctrine of God our Saviour in all things.</hi> The Grace of God, ſays the Apoſtle, has appeared, has brought Salvation to us, has manifeſted a Divine Authority; we our ſelves pretend to believe it, we adore the Myſtery, and are bap<g ref="char:EOLhyphen"/>tized into it: If this be ſo, then adorn the Re<g ref="char:EOLhyphen"/>ligion ye profeſs, do it Honour, do it Right,
+<pb n="7" facs="tcp:95116:5"/>
+               <hi>That the ſound thereof may go forth into all lands; that at the name of Jeſus every knee may bow,</hi> Phil. 2.10.</p>
+            <p>Now the Doctrine of our Saviour is rightly divided into Articles of Faith, and Precepts of Life. I ſhall therefore conſider, how a Man may adorn the Doctrine of God our Savi<g ref="char:EOLhyphen"/>our.</p>
+            <list>
+               <item>1. <hi>Firſt,</hi> As it is a rule of Faith.</item>
+               <item>2. <hi>Secondly,</hi> As it is a rule of Life.</item>
+            </list>
+            <p n="1">1. <hi>Firſt,</hi> As the Doctrine of our Saviour <hi>is a rule of Faith,</hi> or an inſtitution of Religion, which we believe and own as of Divine Au<g ref="char:EOLhyphen"/>thority.</p>
+            <p>It has been always a great Objection againſt our Religion, that the wiſe impoſe it upon the credulous and eaſy multitude, as an uſeful in<g ref="char:EOLhyphen"/>ſtrument of Peace and Society, whilſt theſe do but laugh at their folly, and make uſe of their Conſcience of Religion to the advantages of Policy and Ambition. We ſhall therefore adorn our Religion, and do it honour in the World, if we ſhall manifeſt, beyond any rea<g ref="char:EOLhyphen"/>ſonable exception, that we unfeignedly aſſent unto it, that we firmly believe it to be, what we pretend, of Divine Original. And this will be evident to all, If</p>
+            <pb n="8" facs="tcp:95116:6"/>
+            <p n="1">1. <hi>Firſt,</hi> Our Faith be perfect and intire. If we receive our Religion as it is in it ſelf, in all its parts, in every Article, and in their plaineſt ſence. To pack a Religion or Creed according to our own Affections, Intereſts, or Paſſions, is as eaſily diſcerned by others, as it is nauſeous and contemptible in it ſelf. There is nothing which we more deteſt than a Reli<g ref="char:EOLhyphen"/>gious Cheat. Few are ſo patient as to conſider that Religion ſoberly, whoſe Diſciples are ob<g ref="char:EOLhyphen"/>ſerved to prevaricate in their profeſſion, to al<g ref="char:EOLhyphen"/>ter, change, extinguiſh, add or expound, as ſerves their intereſt: I do not ſay they ſhould do ſo, but it is incident to humane nature to abhor the Religion it ſelf, and the perſons ſo abuſing it, without any farther diſquiſition.</p>
+            <p>But if it be evident, that we embrace the truth in the Love of it, that we ſubmit our Judgment and our Intereſts intirely to it, we ſhall cauſe it to be conſidered with Reverence and Reſpect: It is not eaſy to condemn the judgment of conſiderable numbers of Men, in all things elſe as wary and judicious as any o<g ref="char:EOLhyphen"/>ther, whoſe underſtanding, intereſt, and affe<g ref="char:EOLhyphen"/>ctions, are ſubjected to this Religion. It is but natural to infer, that it muſt certainly have appeared with great Authority, or elſe it would
+<pb n="9" facs="tcp:95116:6"/>never have been received with ſuch reſpect, ſincerity, and ſelf-denial.</p>
+            <p n="2">2. Again, We ſhall <hi>adorn the Doctrine of God our Saviour,</hi> conſidered in general, as a Syſtem of Faith, or an inſtitution of Religi<g ref="char:EOLhyphen"/>on which we receive, and own as of Di<g ref="char:EOLhyphen"/>vine Authority; if we are ſteddy, firm, and conſtant in the profeſſion of it. If <hi>we are groun<g ref="char:EOLhyphen"/>ded, and ſetled, and are not to be moved from the hope of the Goſpel,</hi> as the Apoſtle ſpeaks, <hi>Col.</hi> 1.23. If we ſhall be ſo eſtabliſht, that <hi>when Tribula<g ref="char:EOLhyphen"/>tion cometh we ſhall not be offended,</hi> St. Mat. 17.21. we ſhall then advance the Reputation and Honour of our Religion. Courage and Con<g ref="char:EOLhyphen"/>ſtancy are apt, in their nature, to provoke ad<g ref="char:EOLhyphen"/>miration, to remove prejudices, to beget an opinion of ſincerity in the perſons, of the weight and authority of the doctrine it ſelf, which they ſo ſteddily confeſs. Foraſmuch as no Man will ſuffer much for a School Queſtion, or an indifferent Propoſition. Thus <hi>Act.</hi> 26. v. 28. <hi>The King,</hi> ſays St. <hi>Paul</hi> (when he was upon his Tryal for his Religion) <hi>knows theſe things, before whom I ſpeak freely. And</hi> Agrippa <hi>ſaid unto</hi> Paul, <hi>almoſt thou perſwadeſt me to be a Chriſtian:</hi> ſo great is the force of Conſtancy and Aſſurance. Thus Act. 4. v. 13. <hi>When they ſaw
+<pb n="10" facs="tcp:95116:7"/>the boldneſs of</hi> Peter <hi>and</hi> John, <hi>they marvelled.</hi> It ſtartled the Rulers and Judges, (for theſe are the <hi>they</hi> here) <hi>and the people glorified God for that which was done.</hi> Wherefore, though this be no infallible teſt of truth; yet, in effect, there al<g ref="char:EOLhyphen"/>ways was, and ever will be, a regard, a de<g ref="char:EOLhyphen"/>ference to that Religion, which the Proſelytes are content to atteſt with their Lives. But to change our Religion with our Intereſt, or for fear; to diſſemble, coin, diſtinguiſh, and equi<g ref="char:EOLhyphen"/>vocate, reflects diſhonour and contempt upon it. Who can conſider it as any thing more than an humane invention, or an artifice of ſtate, where they obſerve its Votaries, to uſe ſuch a boldneſs towards it, as is inconſiſtent with the belief of its Divine Authority? <hi>But there were falſe Prophets amongſt the people,</hi> ſays St. <hi>Peter;</hi> theſe were the <hi>Gnoſticks,</hi> who taught the lawfulneſs of a diſſembled Apoſtacy, in caſe of perſecution, <hi>and many ſhall follow their per<g ref="char:EOLhyphen"/>nicious ways,</hi> and what is the conſequence? <hi>By reaſon of whom the way of truth ſhall be evil ſpoken of.</hi> That is the ſecond.</p>
+            <p n="3">3. Thirdly and laſtly, We ſhall adorn the Doctrine of God our Saviour, conſidered in general, as a ſyſtem of Faith, or an inſtitution of Religion, which we receive as of Divine
+<pb n="11" facs="tcp:95116:7"/>Authority, if we ſhall expreſs an Affection, a prudent Zeal in the Profeſſion of it. For by theſe we teſtifie, not only our conviction of the truth, but a high ſatisfaction in the Re<g ref="char:EOLhyphen"/>ligion it ſelf. Zeal for Religion conſiſts in a careful ſtudy of the Law it ſelf,<note place="margin">1 Pet. 3.15.</note> 
+               <hi>that we may be able to give a reaſon of the hope that is in us;</hi> in a conſtant devout attendance upon all our Religious Rites, and ſolemn Services; in a vigorous endeavour, as much as in us lies, to propagate and advance it; to ſuppreſs Pro<g ref="char:EOLhyphen"/>phaneneſs, Hereſie, and Schiſm in our place and ſtation. It will be believed, that there is Divinity, and Worth in that Religion, that is ſo heartily embrac'd, and ſo well belov'd of its Diſciples. But a coldneſs, an indifference to its honour and intereſt, will bring it into diſrepute. Who will believe we eſteem our Religion divine or pure, that obſerves ſo ge<g ref="char:EOLhyphen"/>neral a neglect of Religious Worſhip, ſuch a bold licentious progreſs of Hereſie and Schiſm, which every day gains more and more upon us. And thus I have conſidered how we may demean our ſelves in the <hi>profeſſion</hi> of our Reli<g ref="char:EOLhyphen"/>gion, that we may <hi>adorn</hi> it, that we may raiſe and ſupport the reputation of it in the World.</p>
+            <p n="2">2. I proceed, as I propoſed, in the ſecond
+<pb n="12" facs="tcp:95116:8"/>place, to conſider how we may ſo order our Chriſtian Converſation, that we may adorn the Doctrine of God our Saviour, <hi>as it is a rule of Life and Manners.</hi> And to this purpoſe it is abſolutely neceſſary.</p>
+            <list>
+               <item>1. Firſt, That our Obedience be Entire and Univerſal. For if we believe the Divine Au<g ref="char:EOLhyphen"/>thority of our Religion, it is not poſſible we ſhould preſume to pick and cull ſuch duties only, as ſhall beſt agree with our intereſts and affections, becauſe we are equally obliged to every part, and are taught, that <hi>He that offends in one point is guilty of all.</hi> And therefore if we believe, that our Religion was compoſed by infinite Wiſdom, and will be required at our hands by Infinite Power and Juſtice, accord<g ref="char:EOLhyphen"/>ing to the tenour of the Law, it is not poſſi<g ref="char:EOLhyphen"/>ble we ſhould be guilty of ſuch Preſumption. So that a partial Obedience demonſtrates our Religion to be humane, to be our own; not to be our rule, but our ſubject, which we govern as we pleaſe our ſelves; and therefore the Adverſaries of it will abhor our pretences, and our Religion too. <hi>Thou that makeſt thy boaſt of the law, through breaking the law,</hi> ſays St. <hi>Paul, diſhonoureſt thou the Law?</hi> (by chuſing ſome and neglecting other duties, as the Apoſtle himſelf
+<pb n="13" facs="tcp:95116:8"/>expounds it,) <hi>For the name of God is blaſphemed amongſt the Gentiles through you,</hi> Rom. 2.23. But beſides, unleſs our Obedience be intire, the beauty of our Religion will be obſcur'd. There is a connexion, a dependency of Chri<g ref="char:EOLhyphen"/>ſtian Graces one upon another; whereſoever therefore the Chain is broken, there is a kind of inconſiſtency, an harſhneſs, a diſagree<g ref="char:EOLhyphen"/>ment. But if our Life ſhall be all of a piece, acted by one and the ſame Chriſtian Principle in all things, we ſhall then lay open, and ex<g ref="char:EOLhyphen"/>poſe our Religion to view in its proper colours. We ſhall diſplay its ſymmetry and proportion to the eyes of all men. <hi>If thy whole body,</hi> ſays our Saviour to our preſent purpoſe, <hi>be full of light, having no dark part, the whole ſhall be full of light,</hi> St. Luk. 11.36. If no faculty be left un<g ref="char:EOLhyphen"/>wrought upon, no evil affection unſubdued, if we are intirely united to our Religion, if we underſtand, believe, deſire and act by the laws thereof, we ſhall advance its honour in the World; both out Religion and our Life will be the common object of reſpect and love. That is the firſt.</item>
+               <item>2. Secondly, That we may adorn the Do<g ref="char:EOLhyphen"/>ctrine of God our Saviour, conſidered as a Rule of Life, it is neceſſary that our Obedience be
+<pb n="14" facs="tcp:95116:9"/>free and chearful; that we part with our ſelves, with our own ſelf-will, and ſenſual Appetites, without heſitation or complaint, not by con<g ref="char:EOLhyphen"/>ſtraint, but willingly. For ſuch a ready pra<g ref="char:EOLhyphen"/>ctice, will expreſs the Graces of our Religion more ſmartly, more to the Life: and thoſe who obſerve it, will have reaſon to be in love with it for it ſelt, and to be throughly recon<g ref="char:EOLhyphen"/>ciled to ſuch <hi>a Yoke,</hi> which they find is ſo <hi>eaſy,</hi> ſo pleaſant to thoſe who bear it. <hi>Do all things,</hi> ſays the Apoſtle, <hi>without murmuring, and without diſputing,</hi> let your Obedience be prompt and chearful, forward, and without regret, <hi>that ye may be blameleſs, without rebuke in the midſt of a crooked and perverſe generation, amongſt whom ye</hi> then <hi>ſhall ſhine as lights in the World,</hi> Phil. 2.14, 15. That is the ſecond.</item>
+               <item>3 Thirdly, We ſhall adorn the Doctrine of God our Saviour, conſidered as a Rule of Life; if in caſes doubtful we determine our practice on the ſide of the Law, and of our Duty. No inſtitution of Religion can be ſo particular as to provide for all the circumſtan<g ref="char:EOLhyphen"/>ces of duties, becauſe they are as infinite as the relations, means, and tendencies of things. If we therefore ſhall look beyond the letter of the Law, if we conſider what is <hi>Lovely, and of
+<pb n="15" facs="tcp:95116:9"/>good report,</hi> as well as what is barely <hi>Juſt and Neceſſary;</hi> if we walk by the analogy of Faith; if we endeavour <hi>to be perfect as God it perfect, to proceed from one degree of Grace unto another,</hi> we ſhall certainly bring our Religion into honour and eſteem. It will be believed that we hearti<g ref="char:EOLhyphen"/>ly embrace it, that we truly love it, when it is evident, that we have wholly reſolv'd our ſelves into it. By ſuch a true Affection, by ſuch a prudent Zeal, it will appear our choice, our delight, and our ultimate end, which can<g ref="char:EOLhyphen"/>not but ſubdue the prejudices of its Enemies. Who could withſtand the power of our Reli<g ref="char:EOLhyphen"/>gion, if it were thus ſincerely and throughly imbib'd? Whereas a ſhrivell'd, narrow Ver<g ref="char:EOLhyphen"/>tue, that ſtands upon terms with God, and conſiders how far we may indulge our ſelves, without the violation of ſome great and noto<g ref="char:EOLhyphen"/>rious Law, diſhonours our Religion, and de<g ref="char:EOLhyphen"/>preſſes the credit of Chriſtianity. How ſhould it be thought any other than a tyrannous ſu<g ref="char:EOLhyphen"/>perſtition, when it appears a diſeaſe, a burden, an abhorrence to the Diſciples of it? That is the third.</item>
+               <item>4. Fourthly and laſtly, We ſhall adorn the Doctrine of God our Saviour, as it is a Rule of Life, by an eminent practice of ſome particu<g ref="char:EOLhyphen"/>lar
+<pb n="16" facs="tcp:95116:10"/>Vertues, as of Mercy and Charity: where<g ref="char:EOLhyphen"/>ſoever theſe are expreſs'd to the Life, habitu<g ref="char:EOLhyphen"/>ally, bountifully, freely; all that obſerve it, will eſteem the Religion from whence ſuch a Spirit flows. Who is not apt to favour his O<g ref="char:EOLhyphen"/>pinions, whoſe Goodneſs is conſpicuous, or who has done us any ſignal favours? Is it not the common ſentiment of all Mankind, that Religion is deſign'd to mend the World, to, correct the roughneſs that is ſuperinduc'd up<g ref="char:EOLhyphen"/>on our nature, and the ſelfiſhneſs of our ends, to inlarge our ſpirits into a generous reſpect to each others good, to fix the Laws of our na<g ref="char:EOLhyphen"/>ture more cloſe upon us, by the acceſſion of Divine Command? Whereſoever therefore the ſocial Vertues, univerſal Love, a Catho<g ref="char:EOLhyphen"/>lick temper, humanity, mercy, bounty and a readineſs to forgive, ſhine and are eminent, there our Religion will be honoured and e<g ref="char:EOLhyphen"/>ſteem'd, as a Doctrine that is a publick bleſſing to the World. And thus <hi>our Saviour comman<g ref="char:EOLhyphen"/>ded the multitude [five thouſand perſons] to ſit down on the graſs, and fed then,</hi> by a Miracle, <hi>till they were fill'd.</hi> And what was the effect of this Miraculous Bounty? Why, they were in love with ſuch a Teacher, <hi>and ſaid, of a truth this is the Prophet which ſhould come into the World,</hi> St. Jo.
+<pb n="17" facs="tcp:95116:10"/>6.14. And thus ye may ſee both the mean<g ref="char:EOLhyphen"/>ing, and the practice of this duty. And if we well obſerve theſe rules and meaſures I have now laid down, we may certainly know, whatſoever our calling, ſtation, or profeſſion may be, whether our Chriſtian converſation is ſuch as adorns the Doctrine of God our Savi<g ref="char:EOLhyphen"/>our; nay, we may judge of every action we do, whether it tends to the honour of our Re<g ref="char:EOLhyphen"/>ligion or no. Every Man that is honeſt and ſincere, may eaſily apply theſe general Rules to any particular inſtance that ſhall be before him. For all that has been ſaid is no more than this, That a Man that would render his Religion lovely and amiable in the World, muſt entertain it in all its parts and Articles, promote it zealouſly, confeſs it ſteddily, pra<g ref="char:EOLhyphen"/>ctiſe it chearfully, depart from his Liberty, in doubtful caſes freely, in all his actions ex<g ref="char:EOLhyphen"/>preſs a prudent Zeal, but above all, that he have <hi>Fervent Charity,</hi> that God in all things may be Glorified, 1 <hi>Pet.</hi> 3.8.</item>
+            </list>
+            <p>And were our Religion received and pra<g ref="char:EOLhyphen"/>ctis'd according to theſe juſt directions, how would all the World be ſubdued and vanquiſht by it? It would <hi>be the power of God to ſalvation, both to the Jews and Gentiles,</hi> 1 Cor. 1.24. when
+<pb n="18" facs="tcp:95116:11"/>all diſſembling and equivocation, when all diſguiſes and hypocriſie , when ſullen ſelfiſh<g ref="char:EOLhyphen"/>neſs, and private intereſt, ſhall be baniſhed the dominions of this Religion; <hi>when no man ſhall ſeek his own,</hi>
+               <note place="margin">Mat. 7.12.22.39.</note> 
+               <hi>but every one anothers weal;</hi> when we ſhall <hi>Love our Neighbour as our ſelves, and do to others as we would they ſhould do to us.</hi> How would Chriſtendom be throng'd with thoſe that would come from the furtheſt parts of the Eaſt, to behold the golden Age renewed, and to pay their reſpect to that Religion which has thus reſtored the beauty of the humane na<g ref="char:EOLhyphen"/>ture? And thus much for the Duty.</p>
+            <p n="3">III. I proceed (but very briefly) to conſider <hi>the reaſons which oblige us, and the encourage<g ref="char:EOLhyphen"/>ments which may perſwade us to the practice of it.</hi>
+            </p>
+            <p>And all thoſe Arguments indeed, which oblige us to believe and practiſe, according to the directions of our Religion in general, do as firmly bind us to ſuch degrees of Faith and Vertue, as ſhall adorn it. For this is not a different duty, it is but the ſame thing in its juſt and proper meaſures; a more eminent Vertue, a more perfect Faith, a more excel<g ref="char:EOLhyphen"/>lent Life. But I ſhall only conſider thoſe at preſent, which appear more appoſite and par<g ref="char:EOLhyphen"/>ticular,
+<pb n="19" facs="tcp:95116:11"/>and they are theſe that follow.</p>
+            <p n="1">1. Firſt, To adorn the Doctrine of God our Saviour by ſuch a Faith, and ſuch a practice, as I have now deſcrib'd, is the moſt infallible aſſurance, both to our ſelves and others, that our Principle is ſincere and perfect.</p>
+            <p>It cannot be denied but there are degrees of <hi>true</hi> Faith, and <hi>true</hi> Vertue, and that the Re<g ref="char:EOLhyphen"/>ligion of our Saviour is urged upon us by a double Sanction, by the joys of Heaven, and by greater degrees of that Joy. The former ſhall be the reward of ſincere Obedience, though in a lower meaſure; the latter of a growing, abounding, perfect Faith and Life. But however, though we do not ſay it is im<g ref="char:EOLhyphen"/>poſſible, yet a ſtaggering Faith, a ſtarv'd un<g ref="char:EOLhyphen"/>growing Vertue is very ſeldom true. For a Principle of true Religion is nothing leſs than a ſenſe of the Divine Authority, Beauty and Goodneſs of the Law it ſelt, an immoveable hope in the Promiſes, and a dread of the threatnings there delivered: And whoſoever is affected in earneſt with a ſenſe of theſe things, will endeavour, by a natural promptitude, by a moral neceſſity, to paſs from one degree of Grace to another, till he come to be perfect in Chriſt Jeſus. Where can he ſtop who ſin<g ref="char:EOLhyphen"/>cerely
+<pb n="20" facs="tcp:95116:12"/>believes there is a Heaven before him? This then is the teſt of true Religion, that we find our Faith grow ſtronger, temptations weaker, with a freedom, and chearfulneſs, in all Obedience to the will of God. <hi>Whoſoever hath this hope in him, purifies himſelf, even as he is pure,</hi> ſays St. <hi>John,</hi> 1 Epiſt. 3.3.</p>
+            <p n="2">2. Secondly, Let us conſider, that to live ſuch a Life as ſhall cauſe our Religion to be eſteem'd and honour'd in the World , is the greateſt Bleſſing, as well to our ſelves, as o<g ref="char:EOLhyphen"/>thers, that we can either imagine, or deſire. For <hi>He that converteth a ſinner from the evil of his way, ſhall ſave a ſoul from death, and ſhall hide a multitude of ſins,</hi> Jam. 5.19, 20. What can more excite our Emulation, than to ſtand in the place of the Apoſtles, to ſubdue prejudices, to mol<g ref="char:EOLhyphen"/>lifie hardned hearts, to work Miracles, to win Souls, and inlarge the Kingdom of our Savi<g ref="char:EOLhyphen"/>our. That's the ſecond.</p>
+            <p n="3">3. The third encouragement to ſuch a pro<g ref="char:EOLhyphen"/>feſſion and practice of our Religion as ſhall adorn it, are the particular Promiſes which are made to thoſe who ſhall attain unto it. The ſervice is ſo eminent, that God has been plea<g ref="char:EOLhyphen"/>ſed to encourage it by ſpecial Promiſes. <hi>He that confeſſes me,</hi> ſays our Saviour, <hi>him will I con<g ref="char:EOLhyphen"/>feſs,
+<pb n="21" facs="tcp:95116:12"/>it, a particular manner, before my Father,</hi> St. <hi>Mat.</hi> 10.32. And again, <hi>When they reproach and perſecute you, Rejoice and be exceeding glad, for great is your reward in Heaven,</hi> St. <hi>Mat.</hi> 5.11, 12. In a ſteddy Confeſſion, and a moſt Holy Life, there is an aſſurance of Faith, a Zeal, an affection to the ſervice of God, that is not common, even amongſt thoſe who are really good, and therefore it will be particu<g ref="char:EOLhyphen"/>larly conſidered. St. <hi>Paul</hi> departed from his Liberty for the ſake of the Goſpel, and refu<g ref="char:EOLhyphen"/>ſed to accept of any maintenance from the people, 1 <hi>Cor.</hi> 9. <hi>And doing this willingly,</hi> ſays he, <hi>[that is, without an expreſs command] I have a re<g ref="char:EOLhyphen"/>ward,</hi> v. 17. I ſhall have a particular conſide<g ref="char:EOLhyphen"/>ration for it. But on the other hand, a moſt dreadful wo is denounced againſt thoſe, who, profeſſing the Chriſtian Religion, ſcandalize it, and cauſe it to be blaſphemed by the un<g ref="char:EOLhyphen"/>ſteadineſs of their Faith, or the debauchery of their Lives. <hi>Offences will come,</hi> ſays our Savi<g ref="char:EOLhyphen"/>our, <hi>but wo unto thoſe by whom they come. It were better that a milſtone were hanged about his neck, and he were caſt into the midſt of the Sea,</hi> Luk. 17.1, 2. That is the third.</p>
+            <p n="4">4. The fourth and laſt encouragement to ſuch a profeſſion and practice of our Religion
+<pb n="22" facs="tcp:95116:13"/>as ſhall recommend it in the World, is the par<g ref="char:EOLhyphen"/>ticular peace and ſatisfaction which will ariſe from ſuch a Faith and Life. All dejections and interruptions of our Peace, are the Judg<g ref="char:EOLhyphen"/>ment of our Conſciences againſt us, that we have yielded to temptations, that we have preſs'd upon our Vertue to preſerve our Plea<g ref="char:EOLhyphen"/>ſures, or our Intereſt: But he that is groun<g ref="char:EOLhyphen"/>ded and ſetled in his Faith, ſteady in his hope of the Promiſes, habitual, zealous, and uni<g ref="char:EOLhyphen"/>verſal in the practice of his duty, will find his Peace as conſtant as his Principle, as inexpreſ<g ref="char:EOLhyphen"/>ſible as his Love. <hi>To relieve the diſtreſs'd with a buſhel of wheat, is but common humanity,</hi> ſays <hi>Plu<g ref="char:EOLhyphen"/>tarch; but what exceſs of joy did</hi> Phidias <hi>and</hi> Theo<g ref="char:EOLhyphen"/>phraſtus <hi>find in thoſe extraordinary actions of theirs; when they delivered their Country from Tyranny and Oppreſſion?</hi> (Lib. de Tranq.) <hi>The Teſtimony of our Conſciences, that in ſimplicity and godly ſincerity, we have had our Converſation in the World,</hi>
+               <note place="margin">2 Cor. 1.12.</note> muſt needs be a Principle of great <hi>rejoicing.</hi>
+            </p>
+            <p>What expectation of Divine Aſſiſtance! What hope in difficulties! What Confidence at the hour of Death, will he certainly find, who can truly ſay, <hi>Oh Lord remember how I have ſerv'd thee with a perfect heart! Thy Glory has been my principal aim and end, and thy Law my buſineſs and delight!</hi>
+            </p>
+            <pb n="23" facs="tcp:95116:13"/>
+            <p>And thus I have explained the Duty, and conſidered the Motives which may excite us to the practice of it: It now remains, that we endeavour, upon the force of all that has been ſaid, to ſubdue our own Self will, and ſenſual Appetites, and devote our ſelves to the Obe<g ref="char:EOLhyphen"/>dience of God, to the ſervice and honour of our moſt Holy Faith. That we ſtudy the Beauty, Worth, and Perfection of our Religi<g ref="char:EOLhyphen"/>on; the Goodneſs, Power and Faithfulneſs of the God we ſerve, that <hi>we may walk worthy of our Vocation,</hi> Eph. 4.1. <hi>That we may have our Converſation as becomes the Goſpel,</hi> Phil. 1.27. <hi>That we may ſtand compleat and perfect in all the Will of God,</hi> Col. 4.12. <hi>That your light may ſo ſhine before men, that they may ſee your good Works, and glorifie your Father which is in Heaven,</hi> Mat. 5.16. That at the dreadful day of Judgment, we may meet our Lord with Joy, and give him ſuch an account of the Talents he intruſted us withal, as ſhall be received and paſſed, with, <hi>Well done good and faithful Servants, ye have been faithful over a few things, I will make you rulers over many things, enter ye into the Joy of your Lord,</hi> Mat. 25.21.</p>
+            <pb n="24" facs="tcp:95116:14"/>
+            <p>Which God of his Mercy grant, to every one of us, for Jeſus Chriſt his ſake the Righteous; to whom with the Father, and the Holy Ghoſt, be aſcribed all Honour, Glory, Praiſe, Domi<g ref="char:EOLhyphen"/>nion, and Obedience, now and for evermore. <hi>Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:95116:14"/>
+            <head>
+               <hi>Books Printed for</hi> Walter Kettilby, <hi>at the Biſhop's-Head in S<hi rend="sup">t</hi>
+               </hi> Paul<hi>'s Church-Yard.</hi>
+            </head>
+            <list>
+               <item>BIſhop <hi>Overall</hi>'s Convocation Book MDCVI. concern<g ref="char:EOLhyphen"/>ing the Government of God's Catholick Church, and the Kingdoms of the whole World, 4<hi rend="sup">to</hi>
+               </item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Falkner</hi>'s <hi>Libertas Eccleſiaſtica,</hi> 8<hi rend="sup">vo</hi>
+               </item>
+               <item>—'s Vindication of Liturgies, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>—'s Chriſtian Loyalty, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Scott</hi>'s Chriſtian Life. In three Vol. 8<hi rend="sup">vo</hi>
+               </item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Fowler</hi>'s <hi>Libertas Evangelica,</hi> 8<hi rend="sup">vo</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>W. Allen</hi>'s Tracts, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Raymond</hi>'s Pattern of pure and undefiled Religion, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>—'s Expoſition of the Church Catechiſm.</item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Hesketh</hi>'s Piety, the beſt Rule of Orthodoxy, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>—'s Serious Exhortation to frequent Commanion, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>—'s Caſe of eating and drinking unworthily, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>Faith and Practice of a Church of <hi>England</hi> Man, 12. The Third Edition.</item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Lamb</hi>'s Dialogues between a Miniſter and his Pariſhi<g ref="char:EOLhyphen"/>oner, about the Lord's Supper, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>—'s Sermon before the King at <hi>Windſor.</hi>
+               </item>
+               <item>—'s Sermon before the Lord Mayor.</item>
+               <item>—'s Liberty of humane Nature, ſtated, diſcuſſed and limited.</item>
+               <item>—'s Sermon before the King and Queen, <hi>Jan.</hi> 19. 1689.</item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Grove</hi>'s Sermon before the King and Queen, <hi>June</hi> 1. 1690.</item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Jeffery</hi>'s Religion the Perfection of Man, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Worthington</hi> of Reſignation, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>—'s Chriſtian Love, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Pelling</hi>'s Sermon before the King and Queen, <hi>Dec.</hi> 8. 1689.</item>
+               <item>—'s Vindication of thoſe that have taken the Oath, 4<hi rend="sup">to</hi>
+               </item>
+               <pb facs="tcp:95116:15"/>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Kidder</hi>'s Chriſtian Sufferer, ſupported, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Sharp</hi>'s Diſcourſe concerning Conſcience; The firſt Part; wherein an account is given of the Nature, and Rule, and Obligation of it. And the caſe of thoſe who ſeparate from the Communion of the Church of <hi>England,</hi> as by Law eſtabliſhed, upon this pretence, that it is againſt their Con<g ref="char:EOLhyphen"/>ſcience to join in it, is ſtated and diſcuſſed.</item>
+               <item>—'s Diſcourſe of Conſcience: The ſecond Part; con<g ref="char:EOLhyphen"/>cerning a doubting Conſcience.</item>
+               <item>—'s Faſt-Sermon before the Houſe of Commons, <hi>April</hi> 11. 1679. on <hi>Revel.</hi> ii. 5.</item>
+               <item>—'s Duty and Happineſs of doing good, in two Ser<g ref="char:EOLhyphen"/>mons, the former Preached at the <hi>Yorkſhire</hi> Feaſt, <hi>Feb.</hi> 17. 1679. on <hi>Eccl.</hi> iii. 10. the other before the Lord Mayor at the <hi>Spittle, Apr.</hi> 14. 1680. on 1 <hi>Tim.</hi> vi. 17, 18, 19.</item>
+               <item>—'s Sermon at the Election of the Lord Mayor, <hi>Sept.</hi> 29. 1680. on <hi>Pſal.</hi> cxii. 4.</item>
+               <item>—'s Lent-Sermon at <hi>Whitehal, March</hi> 20. 1684. on <hi>Luke</hi> xvi. 31.</item>
+               <item>—'s Sermon before the Queen at <hi>Whitehall, Apr.</hi> 11. 1690. on <hi>Gal.</hi> v. 13.</item>
+               <item>—'s Faſt-Sermon before the Honourable Houſe of Commons, <hi>May</hi> 21. 1690. on <hi>Deut.</hi> v. 29.</item>
+               <item>Reflections on a French Teſtament, Printed at <hi>Bordeaux, An. Dom.</hi> MDCLXXXVI. Pretenced to be Tranſlated out of the Latin into French, by the Divines of <hi>Louvain.</hi> By <hi>Richard Kidder,</hi> D. D. and Dean of <hi>Peterborough.</hi>
+               </item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Hickman</hi>'s Sermon before the Queen at <hi>Whitehall, Oct.</hi> 26. 1690.</item>
+               <item>—'s Faſt Sermon before the Honourable Houſe of Commons, <hi>Oct.</hi> 19. 1690.</item>
+            </list>
+            <p>
+               <hi>Polemo-Middinia. Carmen Macaronicum. Autore</hi> Gulielmo Drummundo <hi>Scoto-Britanno. Accedit</hi> Jacobi <hi>id Nominis quinti, Regis</hi> Scotorum, <hi>Cantilena Ruſtica vuglò inſcripta.</hi> Chriſt's Kirk on the Green. <hi>Recenſuit, notiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> illuſtravit</hi> E.G.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
